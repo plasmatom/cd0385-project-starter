@@ -32,12 +32,12 @@ hpo|10|local| local_random|0.62992|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 We forecasted the demand for bike sharing using AutoGluon. We found out what format was needed for submissions, which model worked best, built further features, and tried adjusting the hyperparameters. Even with very slight improvement, given more time, we would concentrate on advanced feature engineering and deployment considerations.
