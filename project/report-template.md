@@ -26,6 +26,7 @@ My primary focus would be on researching and developing new features that enable
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 model|num_trials|scheduler|searcher|score|
+---|---|---|---|---|
 initial|5|local|auto|1.80577|
 add_features|5|local|auto|0.61690|
 hpo|10|local| local_random|0.62992|
